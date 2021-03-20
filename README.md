@@ -1,5 +1,3 @@
-## Welcome to The Fun House
-
 ![Magic Fun House](landscape.png)
 
 Have you ever thought about tucking everything away after a long day 
@@ -12,7 +10,7 @@ Try your best to solve some classic puzzels and reward yourself with even more j
 
 Flying the model airplane, teasing the cute stuffed dinosaur, 
 firing the bubble gun, tasting crane candy and fresh fruits, etc.,
-you will have tons of fun playing in a fully-immersive comforting environment.
+eyou will have tons of fun playing in a fully-immersive comforting environment.
 
 Fun House provides a great experience for you to relax and take a break from daily chores.
 Go exploring the house filled with surprising marvelous little things!
